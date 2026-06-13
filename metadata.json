@@ -1,0 +1,6 @@
+{
+  "name": "موقفي",
+  "description": "تطبيق لحفظ المواقع والمواقف للسيارات بضغطة زر مع تنبيهات عند الاقتراب.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

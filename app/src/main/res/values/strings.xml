@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">موقفي</string>
+    <string name="shortcut_save_location_short">حفظ الموقع</string>
+    <string name="shortcut_save_location_long">حفظ موقعي الآن</string>
+</resources>

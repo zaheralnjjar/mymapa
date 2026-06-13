@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shortcuts xmlns:android="http://schemas.android.com/apk/res/android">
+    <shortcut
+        android:shortcutId="save_location"
+        android:enabled="true"
+        android:icon="@android:drawable/ic_menu_mylocation"
+        android:shortcutShortLabel="@string/shortcut_save_location_short"
+        android:shortcutLongLabel="@string/shortcut_save_location_long">
+        <intent
+            android:action="com.example.ACTION_QUICK_SAVE"
+            android:targetPackage="com.example"
+            android:targetClass="com.example.MainActivity" />
+        <categories android:name="android.shortcut.conversation" />
+    </shortcut>
+</shortcuts>
